@@ -1,5 +1,11 @@
+import exercicios.MediaCombustivel;
+import exercicios.QuatroOperacoes;
+
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+//    QuatroOperacoes calculate = new QuatroOperacoes(25,5);
+//    calculate.showResult();
+    MediaCombustivel calculateAverage = new MediaCombustivel(10, 1);
+    calculateAverage.calculateAverageConsumptiom();
   }
 }
