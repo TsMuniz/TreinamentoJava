@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c766a8a-ff9a-4f0a-9f74-97e043357c3a" name="Changes" comment="feat: primeiro commit">
-      <change afterPath="$PROJECT_DIR$/src/exercicios/MediaCombustivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/Vendedor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663019116186</updated>
       <workItem from="1663019117779" duration="392000" />
-      <workItem from="1665671611206" duration="1357000" />
+      <workItem from="1665671611206" duration="3860000" />
     </task>
     <task id="LOCAL-00001" summary="feat: primeiro commit">
       <created>1663019202906</created>
