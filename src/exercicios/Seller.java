@@ -1,0 +1,70 @@
+package exercicios;
+
+import java.util.List;
+
+public class Seller {
+  private String name;
+  private String role;
+  private int age;
+  private String email;
+  private double salary;
+
+  public String getName() {
+    return name;
+  }
+
+  public void setName(String name) {
+    this.name = name;
+  }
+
+  public String getRole() {
+    return role;
+  }
+
+  public void setRole(String role) {
+    this.role = role;
+  }
+
+  public int getAge() {
+    return age;
+  }
+
+  public void setAge(int age) {
+    this.age = age;
+  }
+
+  public String getEmail() {
+    return email;
+  }
+
+  public void setEmail(String email) {
+    this.email = email;
+  }
+
+  public double getSalary() {
+    return salary;
+  }
+
+  public void setSalary(double salary) {
+    this.salary = salary;
+  }
+
+  public Seller(String name, String role, int age, String email, double salary) {
+    this.name = name;
+    this.role = role;
+    this.age = age;
+    this.email = email;
+    this.salary = salary;
+  }
+
+  @Override
+  public String toString() {
+    return "Seller{" +
+            "name='" + name + '\'' +
+            ", role='" + role + '\'' +
+            ", age=" + age +
+            ", email='" + email + '\'' +
+            ", salary=" + salary +
+            '}';
+  }
+}
